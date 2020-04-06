@@ -11,3 +11,16 @@ C:\Users\papay\OneDrive\เดสก์ท็อป\HW05\obj\Debug\netcoreapp3.1
 C:\Users\papay\OneDrive\เดสก์ท็อป\HW05\obj\Debug\netcoreapp3.1\HW05.dll
 C:\Users\papay\OneDrive\เดสก์ท็อป\HW05\obj\Debug\netcoreapp3.1\HW05.pdb
 C:\Users\papay\OneDrive\เดสก์ท็อป\HW05\obj\Debug\netcoreapp3.1\HW05.genruntimeconfig.cache
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.exe
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.deps.json
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.runtimeconfig.json
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.runtimeconfig.dev.json
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.dll
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\bin\Debug\netcoreapp3.1\HW05.pdb
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.csprojAssemblyReference.cache
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.csproj.CoreCompileInputs.cache
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.AssemblyInfoInputs.cache
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.AssemblyInfo.cs
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.dll
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.pdb
+C:\Users\papay\OneDrive\เดสก์ท็อป\Piyawat\HW05\obj\Debug\netcoreapp3.1\HW05.genruntimeconfig.cache

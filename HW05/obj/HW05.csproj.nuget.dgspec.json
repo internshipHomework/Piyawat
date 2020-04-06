@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\HW05\\HW05.csproj": {}
+    "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\Piyawat\\HW05\\HW05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\HW05\\HW05.csproj": {
+    "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\Piyawat\\HW05\\HW05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\HW05\\HW05.csproj",
+        "projectUniqueName": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\Piyawat\\HW05\\HW05.csproj",
         "projectName": "HW05",
-        "projectPath": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\HW05\\HW05.csproj",
+        "projectPath": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\Piyawat\\HW05\\HW05.csproj",
         "packagesPath": "C:\\Users\\papay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\HW05\\obj\\",
+        "outputPath": "C:\\Users\\papay\\OneDrive\\เดสก์ท็อป\\Piyawat\\HW05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\papay\\AppData\\Roaming\\NuGet\\NuGet.Config",
