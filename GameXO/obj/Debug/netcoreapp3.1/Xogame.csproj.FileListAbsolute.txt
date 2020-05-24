@@ -1,0 +1,13 @@
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.csprojAssemblyReference.cache
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.AssemblyInfoInputs.cache
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.AssemblyInfo.cs
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.csproj.CoreCompileInputs.cache
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.exe
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.deps.json
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.runtimeconfig.json
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.runtimeconfig.dev.json
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.dll
+C:\Users\Jiranuwat\Desktop\Xogame\bin\Debug\netcoreapp3.1\Xogame.pdb
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.dll
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.pdb
+C:\Users\Jiranuwat\Desktop\Xogame\obj\Debug\netcoreapp3.1\Xogame.genruntimeconfig.cache
